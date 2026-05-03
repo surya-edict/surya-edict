@@ -66,17 +66,6 @@ that make production easier to operate.
   </tr>
 </table>
 
-## GitHub Analytics
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=surya-edict&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=surya-edict&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-edict&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</div>
-
 ## Let's Connect
 
 <div align="center">
