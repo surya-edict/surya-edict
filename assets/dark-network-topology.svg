@@ -1,0 +1,93 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Surya Pratap Singh DevOps hero banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#070B14" />
+      <stop offset="0.55" stop-color="#0B1220" />
+      <stop offset="1" stop-color="#0A1628" />
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(960 182) rotate(90) scale(180 280)">
+      <stop stop-color="#22D3EE" stop-opacity="0.22" />
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(760 120) rotate(90) scale(120 200)">
+      <stop stop-color="#60A5FA" stop-opacity="0.18" />
+      <stop offset="1" stop-color="#60A5FA" stop-opacity="0" />
+    </radialGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="360" fill="url(#bg)" />
+  <rect width="1280" height="360" fill="url(#glowA)" />
+  <rect width="1280" height="360" fill="url(#glowB)" />
+
+  <g stroke="#1F2A44" stroke-opacity="0.5" stroke-width="1">
+    <path d="M0 72H1280M0 144H1280M0 216H1280M0 288H1280" />
+    <path d="M128 0V360M256 0V360M384 0V360M512 0V360M640 0V360M768 0V360M896 0V360M1024 0V360M1152 0V360" />
+  </g>
+
+  <g opacity="0.18" stroke="#60A5FA" stroke-width="1.2">
+    <path d="M0 332C180 300 320 346 500 320C690 292 840 256 1280 315" />
+    <path d="M0 308C250 270 420 312 610 286C812 258 1000 238 1280 272" />
+  </g>
+
+  <g filter="url(#softGlow)">
+    <path d="M880 182L776 98" stroke="#38BDF8" stroke-opacity="0.65" stroke-width="1.8" stroke-linecap="round" />
+    <path d="M880 182L1006 92" stroke="#38BDF8" stroke-opacity="0.65" stroke-width="1.8" stroke-linecap="round" />
+    <path d="M880 182L1072 172" stroke="#38BDF8" stroke-opacity="0.65" stroke-width="1.8" stroke-linecap="round" />
+    <path d="M880 182L1024 276" stroke="#38BDF8" stroke-opacity="0.65" stroke-width="1.8" stroke-linecap="round" />
+    <path d="M880 182L748 274" stroke="#38BDF8" stroke-opacity="0.65" stroke-width="1.8" stroke-linecap="round" />
+    <path d="M880 182L690 188" stroke="#38BDF8" stroke-opacity="0.65" stroke-width="1.8" stroke-linecap="round" />
+    <path d="M880 182L934 46" stroke="#38BDF8" stroke-opacity="0.35" stroke-width="1.4" stroke-linecap="round" stroke-dasharray="4 8" />
+    <path d="M1072 172L1180 132" stroke="#22D3EE" stroke-opacity="0.28" stroke-width="1.4" stroke-linecap="round" stroke-dasharray="5 8" />
+    <path d="M748 274L650 320" stroke="#22D3EE" stroke-opacity="0.28" stroke-width="1.4" stroke-linecap="round" stroke-dasharray="5 8" />
+  </g>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="92" y="138" fill="#F8FAFC" font-size="42" font-weight="700">Surya Pratap Singh</text>
+    <text x="92" y="176" fill="#7DD3FC" font-size="20" font-weight="600">DevOps Engineer | Cloud Infrastructure | Platform Reliability</text>
+    <text x="92" y="214" fill="#CBD5E1" font-size="16">Building resilient delivery pipelines, secure cloud platforms, and observable systems.</text>
+    <text x="92" y="246" fill="#93C5FD" font-size="14">AWS  ·  Kubernetes  ·  Terraform  ·  CI/CD  ·  Docker  ·  Monitoring</text>
+  </g>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#C7D2FE" fill-opacity="0.9">
+    <text x="740" y="88">CI/CD</text>
+    <text x="982" y="82">Cloud</text>
+    <text x="1082" y="169">Observability</text>
+    <text x="1010" y="298">Security</text>
+    <text x="720" y="296">Terraform</text>
+    <text x="640" y="194">Automation</text>
+    <text x="908" y="38">Kubernetes</text>
+  </g>
+
+  <g filter="url(#softGlow)">
+    <circle cx="880" cy="182" r="18" fill="#08111F" stroke="#22D3EE" stroke-width="2.2" />
+    <circle cx="776" cy="98" r="10" fill="#0A1628" stroke="#67E8F9" stroke-width="1.8" />
+    <circle cx="1006" cy="92" r="10" fill="#0A1628" stroke="#67E8F9" stroke-width="1.8" />
+    <circle cx="1072" cy="172" r="10" fill="#0A1628" stroke="#67E8F9" stroke-width="1.8" />
+    <circle cx="1024" cy="276" r="10" fill="#0A1628" stroke="#67E8F9" stroke-width="1.8" />
+    <circle cx="748" cy="274" r="10" fill="#0A1628" stroke="#67E8F9" stroke-width="1.8" />
+    <circle cx="690" cy="188" r="10" fill="#0A1628" stroke="#67E8F9" stroke-width="1.8" />
+    <circle cx="934" cy="46" r="8" fill="#0A1628" stroke="#60A5FA" stroke-width="1.6" />
+    <circle cx="1180" cy="132" r="7" fill="#0A1628" stroke="#22D3EE" stroke-width="1.5" />
+    <circle cx="650" cy="320" r="7" fill="#0A1628" stroke="#22D3EE" stroke-width="1.5" />
+  </g>
+
+  <g opacity="0.95">
+    <circle cx="880" cy="182" r="26" stroke="#22D3EE" stroke-opacity="0.35" stroke-width="1.5">
+      <animate attributeName="r" values="22;30;22" dur="4s" repeatCount="indefinite" />
+      <animate attributeName="stroke-opacity" values="0.35;0.15;0.35" dur="4s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="776" cy="98" r="14" stroke="#38BDF8" stroke-opacity="0.18" stroke-width="1.2">
+      <animate attributeName="r" values="12;16;12" dur="5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1006" cy="92" r="14" stroke="#38BDF8" stroke-opacity="0.18" stroke-width="1.2">
+      <animate attributeName="r" values="12;16;12" dur="5.4s" repeatCount="indefinite" />
+    </circle>
+  </g>
+</svg>
