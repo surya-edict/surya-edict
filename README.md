@@ -38,9 +38,6 @@ that make production easier to operate.
 <div align="center">
   <a href="https://www.credly.com/badges/b80728fb-0983-459f-a94f-361ba644340b/public_url">
     <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect Associate" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-AWS%20%7C%20Kubernetes%20%7C%20Terraform-0f172a?style=for-the-badge" alt="AWS Kubernetes Terraform" />
-  <img src="https://img.shields.io/badge/Strength-CI%2FCD%20%7C%20GitOps%20%7C%20Observability-1d4ed8?style=for-the-badge" alt="CI/CD GitOps Observability" />
 </div>
 
 ## Featured Projects
