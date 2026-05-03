@@ -33,10 +33,6 @@
     <text x="88" y="158" fill="#9CC0FF" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600">DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD</text>
     <text x="88" y="188" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="14">Building reliable delivery systems, secure cloud platforms, and observable infrastructure.</text>
 
-    <rect x="548" y="104" width="208" height="54" rx="14" fill="#0F172A" fill-opacity="0.52" stroke="#7C9CFF" stroke-opacity="0.28"/>
-    <text x="568" y="126" fill="#31C48D" font-family="Consolas, 'Courier New', monospace" font-size="13">deploy: healthy</text>
-    <text x="568" y="146" fill="#7DD3FC" font-family="Consolas, 'Courier New', monospace" font-size="11.5">alerts: 0 critical | latency stable</text>
-
     <text x="88" y="230" fill="#DCE6FF" font-family="Consolas, 'Courier New', monospace" font-size="17">$ kubectl rollout status deploy/inventory-api -n production</text>
     <text x="88" y="256" fill="#DCE6FF" font-family="Consolas, 'Courier New', monospace" font-size="17">$ terraform apply -auto-approve</text>
     <text x="88" y="282" fill="#DCE6FF" font-family="Consolas, 'Courier New', monospace" font-size="17">$ argocd app sync inventory-platform</text>
