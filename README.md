@@ -40,15 +40,7 @@ that make production easier to operate.
     <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect Associate" />
 </div>
 
-## Featured Projects
-
-| Project | What it does |
-| --- | --- |
-| [MultiCloud-Watchtower](https://github.com/surya-edict/MultiCloud-Watchtower) | A multi-cloud FinOps platform that pulls billing data from AWS, Azure, and GCP, normalizes the cost into a single view, stores the metrics in InfluxDB, and surfaces trends through Grafana dashboards. It also adds Redis-backed alert deduplication and Slack notifications so unusual spend can be caught early instead of after the bill arrives. |
-| [Netflix-Clone-DevOps](https://github.com/surya-edict/Netflix-Clone-DevOps) | A Netflix-style streaming app built with React, TypeScript, Vite, Material UI, and TMDB integrations, then containerized with Docker and served through NGINX. The project is a full DevSecOps showcase with Jenkins pipelines, SonarQube and Trivy scans, OWASP dependency checks, Kubernetes deployment, and Prometheus/Grafana monitoring around the application lifecycle. |
-| [Three-Tier-Inventory-Management-System-with-AIOps-Style-Alerts](https://github.com/surya-edict/Three-Tier-Inventory-Management-System-with-AIOps-Style-Alerts) | A production-style inventory management system with a React frontend, FastAPI backend, and PostgreSQL database designed to handle real order workflows safely. It is deployed on AWS using Terraform, EKS, ECR, GitHub Actions, and Argo CD, with Prometheus/Grafana alerting added to monitor API health, low-stock events, and operational reliability. |
-
-### Architecture Cards
+### Featured Project Cards
 
 <table>
   <tr>
