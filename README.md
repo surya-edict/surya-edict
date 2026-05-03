@@ -1,14 +1,6 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,50:1d4ed8,100:22c55e&text=Surya%20Pratap%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20Terraform%20%7C%20CI%2FCD&descAlignY=60&descSize=18" alt="header banner" />
 
-  <h1>Surya Pratap Singh</h1>
-  <p><strong>DevOps Engineer focused on cloud infrastructure, automation, CI/CD, GitOps, and observability.</strong></p>
-  <p>
-    AWS Certified engineer building production-ready delivery platforms with Kubernetes, Terraform, Jenkins, GitHub Actions,
-    Argo CD, Prometheus, and Grafana.
-  </p>
-</div>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=1100&lines=Building+reliable+cloud+platforms+and+CI%2FCD+systems;Automating+infrastructure+with+Terraform%2C+GitOps%2C+and+Kubernetes;Improving+delivery+speed%2C+security%2C+and+observability+for+modern+applications" alt="Typing intro" />
