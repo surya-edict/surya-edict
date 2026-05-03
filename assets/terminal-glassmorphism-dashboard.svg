@@ -9,10 +9,6 @@
       <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.12"/>
       <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.05"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#7C9CFF"/>
-      <stop offset="1" stop-color="#22D3EE"/>
-    </linearGradient>
   </defs>
 
   <rect width="1280" height="360" rx="24" fill="url(#bg)"/>
@@ -37,31 +33,31 @@
     <text x="88" y="158" fill="#9CC0FF" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="600">DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD</text>
     <text x="88" y="188" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="14">Building reliable delivery systems, secure cloud platforms, and observable infrastructure.</text>
 
-    <text x="88" y="228" fill="#DCE6FF" font-family="Consolas, 'Courier New', monospace" font-size="17">$ kubectl rollout status deploy/inventory-api -n production</text>
-    <text x="88" y="254" fill="#DCE6FF" font-family="Consolas, 'Courier New', monospace" font-size="17">$ terraform apply -auto-approve</text>
-    <text x="88" y="280" fill="#DCE6FF" font-family="Consolas, 'Courier New', monospace" font-size="17">$ argocd app sync inventory-platform</text>
+    <rect x="548" y="104" width="208" height="54" rx="14" fill="#0F172A" fill-opacity="0.52" stroke="#7C9CFF" stroke-opacity="0.28"/>
+    <text x="568" y="126" fill="#31C48D" font-family="Consolas, 'Courier New', monospace" font-size="13">deploy: healthy</text>
+    <text x="568" y="146" fill="#7DD3FC" font-family="Consolas, 'Courier New', monospace" font-size="11.5">alerts: 0 critical | latency stable</text>
 
-    <rect x="520" y="214" width="236" height="56" rx="14" fill="#0F172A" fill-opacity="0.50" stroke="#7C9CFF" stroke-opacity="0.28"/>
-    <text x="540" y="236" fill="#31C48D" font-family="Consolas, 'Courier New', monospace" font-size="13">deploy: healthy</text>
-    <text x="540" y="256" fill="#7DD3FC" font-family="Consolas, 'Courier New', monospace" font-size="12">alerts: 0 critical | latency stable</text>
+    <text x="88" y="230" fill="#DCE6FF" font-family="Consolas, 'Courier New', monospace" font-size="17">$ kubectl rollout status deploy/inventory-api -n production</text>
+    <text x="88" y="256" fill="#DCE6FF" font-family="Consolas, 'Courier New', monospace" font-size="17">$ terraform apply -auto-approve</text>
+    <text x="88" y="282" fill="#DCE6FF" font-family="Consolas, 'Courier New', monospace" font-size="17">$ argocd app sync inventory-platform</text>
   </g>
 
   <g>
     <rect x="822" y="44" width="394" height="248" rx="22" fill="url(#panelFill)" stroke="#FFFFFF" stroke-opacity="0.16"/>
     <text x="850" y="78" fill="#E5ECF6" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Platform Signals</text>
 
-    <rect x="850" y="96" width="338" height="54" rx="16" fill="#0F172A" fill-opacity="0.56" stroke="#FFFFFF" stroke-opacity="0.10"/>
+    <rect x="850" y="96" width="338" height="56" rx="16" fill="#0F172A" fill-opacity="0.56" stroke="#FFFFFF" stroke-opacity="0.10"/>
     <text x="872" y="118" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600">API Uptime</text>
-    <text x="872" y="137" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">99.95%</text>
-    <path d="M1068 131C1086 120 1100 124 1116 116C1130 110 1146 116 1164 104" stroke="#31C48D" stroke-width="2" stroke-linecap="round"/>
+    <text x="872" y="139" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">99.95%</text>
+    <path d="M1068 133C1086 122 1100 126 1116 118C1130 112 1146 118 1164 106" stroke="#31C48D" stroke-width="2" stroke-linecap="round"/>
 
-    <rect x="850" y="162" width="338" height="54" rx="16" fill="#0F172A" fill-opacity="0.56" stroke="#FFFFFF" stroke-opacity="0.10"/>
-    <text x="872" y="184" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600">Monthly Pipelines</text>
-    <text x="872" y="203" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">148 runs</text>
-    <path d="M1068 197C1084 189 1102 176 1120 184C1136 190 1150 176 1166 168" stroke="#7C9CFF" stroke-width="2" stroke-linecap="round"/>
+    <rect x="850" y="164" width="338" height="56" rx="16" fill="#0F172A" fill-opacity="0.56" stroke="#FFFFFF" stroke-opacity="0.10"/>
+    <text x="872" y="186" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600">Monthly Pipelines</text>
+    <text x="872" y="207" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">148 runs</text>
+    <path d="M1068 201C1084 193 1102 180 1120 188C1136 194 1150 180 1166 172" stroke="#7C9CFF" stroke-width="2" stroke-linecap="round"/>
 
-    <rect x="850" y="228" width="338" height="46" rx="16" fill="#0F172A" fill-opacity="0.56" stroke="#FFFFFF" stroke-opacity="0.10"/>
-    <text x="872" y="247" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600">Delivery Flow</text>
-    <text x="872" y="263" fill="#DCE6FF" font-family="Segoe UI, Arial, sans-serif" font-size="11">GitHub Actions -> Docker -> K8s -> Monitoring</text>
+    <rect x="850" y="232" width="338" height="42" rx="16" fill="#0F172A" fill-opacity="0.56" stroke="#FFFFFF" stroke-opacity="0.10"/>
+    <text x="872" y="249" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600">Delivery Flow</text>
+    <text x="872" y="264" fill="#DCE6FF" font-family="Segoe UI, Arial, sans-serif" font-size="10.5">Actions -> Docker -> K8s -> Monitoring</text>
   </g>
 </svg>
