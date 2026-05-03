@@ -25,13 +25,6 @@
 
 ---
 
-## Recruiter Snapshot
-
-- DevOps Engineer with hands-on experience across AWS, Kubernetes, Terraform, Jenkins, GitHub Actions, Argo CD, Prometheus, and Grafana.
-- Strong in building CI/CD pipelines, secure cloud infrastructure, deployment automation, and observable production systems.
-- Delivered measurable outcomes including 80% faster releases, 99.9% uptime, and 30+ security issues caught pre-launch.
-- AWS Certified Solutions Architect Associate with a practical project portfolio built around cloud-native delivery and reliability.
-
 ## About Me
 
 I build deployment platforms and cloud environments that help teams ship faster, safer, and with more confidence.
@@ -40,14 +33,6 @@ My work sits at the intersection of automation, infrastructure, release engineer
 I enjoy turning manual workflows into repeatable systems, whether that means provisioning AWS infrastructure with Terraform,
 setting up GitOps-based Kubernetes deployments, hardening CI/CD pipelines with scanning gates, or creating dashboards and alerts
 that make production easier to operate.
-
-## Impact Highlights
-
-- Built and deployed a Netflix-style application on AWS EKS with Jenkins, Argo CD, SonarQube, Trivy, Prometheus, and Grafana, enabling 80% faster releases and 99.9% uptime.
-- Added security and quality checks to the delivery pipeline and helped surface 30+ issues before launch.
-- Built a three-tier inventory platform with React, FastAPI, and PostgreSQL using row-level locking for safe concurrent order processing.
-- Provisioned secure AWS infrastructure with Terraform using least-privilege access patterns and zero-trust aligned design.
-- Created multi-cloud FinOps dashboards that normalized spend across AWS, Azure, and GCP, with anomaly alerts pushed through GitHub Actions and Slack.
 
 ## Core Stack
 
@@ -66,12 +51,11 @@ that make production easier to operate.
 
 ## Featured Projects
 
-| Project | What it demonstrates |
+| Project | What it does |
 | --- | --- |
-| [MultiCloud-Watchtower](https://github.com/surya-edict/MultiCloud-Watchtower) | Multi-cloud FinOps visibility, billing normalization, anomaly detection, Grafana dashboards, and Slack alerting |
-| [Netflix-Clone-DevOps](https://github.com/surya-edict/Netflix-Clone-DevOps) | End-to-end DevSecOps pipeline with Jenkins, SonarQube, Trivy, Argo CD, AWS EKS, Prometheus, and Grafana |
-| [Three-Tier-Inventory-Management-System-with-AIOps-Style-Alerts](https://github.com/surya-edict/Three-Tier-Inventory-Management-System-with-AIOps-Style-Alerts) | Secure cloud infrastructure, GitOps delivery, observability, FastAPI backend, PostgreSQL, and concurrency-safe order handling |
-| [Observability-devops](https://github.com/surya-edict/Observability-devops) | Monitoring-first mindset with dashboards, metrics pipelines, and production visibility tooling |
+| [MultiCloud-Watchtower](https://github.com/surya-edict/MultiCloud-Watchtower) | A multi-cloud FinOps platform that pulls billing data from AWS, Azure, and GCP, normalizes the cost into a single view, stores the metrics in InfluxDB, and surfaces trends through Grafana dashboards. It also adds Redis-backed alert deduplication and Slack notifications so unusual spend can be caught early instead of after the bill arrives. |
+| [Netflix-Clone-DevOps](https://github.com/surya-edict/Netflix-Clone-DevOps) | A Netflix-style streaming app built with React, TypeScript, Vite, Material UI, and TMDB integrations, then containerized with Docker and served through NGINX. The project is really a full DevSecOps showcase: Jenkins pipelines, SonarQube and Trivy scans, OWASP dependency checks, Kubernetes deployment, and Prometheus/Grafana monitoring around the application lifecycle. |
+| [Three-Tier-Inventory-Management-System-with-AIOps-Style-Alerts](https://github.com/surya-edict/Three-Tier-Inventory-Management-System-with-AIOps-Style-Alerts) | A production-style inventory management system with a React frontend, FastAPI backend, and PostgreSQL database designed to handle real order workflows safely. It is deployed on AWS using Terraform, EKS, ECR, GitHub Actions, and Argo CD, with Prometheus/Grafana alerting added to monitor API health, low-stock events, and overall operational reliability. |
 
 ## GitHub Analytics
 
