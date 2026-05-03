@@ -9,7 +9,6 @@
   </p>
 
   <p>
-    <a href="https://github.com/surya-edict?tab=followers"><img src="https://img.shields.io/github/followers/surya-edict?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" /></a>
     <img src="https://komarev.com/ghpvc/?username=surya-edict&style=for-the-badge&color=2563eb" alt="Profile views" />
     <img src="https://img.shields.io/github/last-commit/surya-edict/surya-edict?style=for-the-badge&label=Last%20Updated&color=0f172a" alt="Last updated" />
     <img src="https://img.shields.io/badge/Open%20To-DevOps%20Roles-16a34a?style=for-the-badge" alt="Open to DevOps roles" />
@@ -33,21 +32,6 @@ I enjoy turning manual workflows into repeatable systems, whether that means pro
 setting up GitOps-based Kubernetes deployments, hardening CI/CD pipelines with scanning gates, or creating dashboards and alerts
 that make production easier to operate.
 
-## Certifications
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect Associate" />
-  <img src="https://img.shields.io/badge/Focus-AWS%20%7C%20Kubernetes%20%7C%20Terraform-0f172a?style=for-the-badge" alt="AWS Kubernetes Terraform" />
-  <img src="https://img.shields.io/badge/Strength-CI%2FCD%20%7C%20GitOps%20%7C%20Observability-1d4ed8?style=for-the-badge" alt="CI/CD GitOps Observability" />
-</div>
-
-## Why Hire Me
-
-- I build end-to-end DevOps systems, not just isolated scripts or pipelines.
-- I can work across infrastructure provisioning, CI/CD, container orchestration, GitOps, and monitoring.
-- My projects show practical delivery maturity: security scans, automated deployments, observability, and cloud-native operations.
-- I focus on systems that are reliable, explainable, and easy for teams to operate after deployment.
-
 ## Core Stack
 
 <div align="center">
@@ -62,6 +46,23 @@ that make production easier to operate.
   <img src="https://img.shields.io/badge/InfluxDB-Time%20Series-22ADF6?style=flat-square&logo=influxdb&logoColor=white" alt="InfluxDB" />
   <img src="https://img.shields.io/badge/Redis-Cache-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
 </div>
+
+## Certifications
+
+<div align="center">
+  <a href="https://www.credly.com/badges/b80728fb-0983-459f-a94f-361ba644340b/public_url">
+    <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect Associate" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-AWS%20%7C%20Kubernetes%20%7C%20Terraform-0f172a?style=for-the-badge" alt="AWS Kubernetes Terraform" />
+  <img src="https://img.shields.io/badge/Strength-CI%2FCD%20%7C%20GitOps%20%7C%20Observability-1d4ed8?style=for-the-badge" alt="CI/CD GitOps Observability" />
+</div>
+
+## Why Hire Me
+
+- I build end-to-end DevOps systems, not just isolated scripts or pipelines.
+- I can work across infrastructure provisioning, CI/CD, container orchestration, GitOps, and monitoring.
+- My projects show practical delivery maturity: security scans, automated deployments, observability, and cloud-native operations.
+- I focus on systems that are reliable, explainable, and easy for teams to operate after deployment.
 
 ## Featured Projects
 
