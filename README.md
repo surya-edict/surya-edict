@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/surya-edict/surya-edict/main/assets/dark-network-topology.svg" alt="Dark network topology hero banner" />
+  <img width="100%" src="https://raw.githubusercontent.com/surya-edict/surya-edict/main/assets/terminal-glassmorphism-dashboard.svg" alt="Terminal glassmorphism dashboard hero banner" />
 </div>
 
 ---
