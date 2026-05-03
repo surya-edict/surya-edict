@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/surya-edict/surya-edict/main/assets/terminal-glassmorphism-dashboard.svg" alt="Terminal glassmorphism dashboard hero banner" />
+  <img width="100%" src="https://raw.githubusercontent.com/surya-edict/surya-edict/main/assets/isometric-devops-platform-scene.svg" alt="Isometric DevOps platform scene hero banner" />
 </div>
 
 ---
