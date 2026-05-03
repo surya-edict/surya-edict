@@ -12,7 +12,6 @@
     <a href="https://github.com/surya-edict?tab=followers"><img src="https://img.shields.io/github/followers/surya-edict?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" /></a>
     <img src="https://komarev.com/ghpvc/?username=surya-edict&style=for-the-badge&color=2563eb" alt="Profile views" />
     <img src="https://img.shields.io/github/last-commit/surya-edict/surya-edict?style=for-the-badge&label=Last%20Updated&color=0f172a" alt="Last updated" />
-    <img src="https://img.shields.io/badge/AWS%20Certified-SAA-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect Associate" />
     <img src="https://img.shields.io/badge/Open%20To-DevOps%20Roles-16a34a?style=for-the-badge" alt="Open to DevOps roles" />
   </p>
 </div>
@@ -34,6 +33,21 @@ I enjoy turning manual workflows into repeatable systems, whether that means pro
 setting up GitOps-based Kubernetes deployments, hardening CI/CD pipelines with scanning gates, or creating dashboards and alerts
 that make production easier to operate.
 
+## Certifications
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect Associate" />
+  <img src="https://img.shields.io/badge/Focus-AWS%20%7C%20Kubernetes%20%7C%20Terraform-0f172a?style=for-the-badge" alt="AWS Kubernetes Terraform" />
+  <img src="https://img.shields.io/badge/Strength-CI%2FCD%20%7C%20GitOps%20%7C%20Observability-1d4ed8?style=for-the-badge" alt="CI/CD GitOps Observability" />
+</div>
+
+## Why Hire Me
+
+- I build end-to-end DevOps systems, not just isolated scripts or pipelines.
+- I can work across infrastructure provisioning, CI/CD, container orchestration, GitOps, and monitoring.
+- My projects show practical delivery maturity: security scans, automated deployments, observability, and cloud-native operations.
+- I focus on systems that are reliable, explainable, and easy for teams to operate after deployment.
+
 ## Core Stack
 
 <div align="center">
@@ -54,8 +68,33 @@ that make production easier to operate.
 | Project | What it does |
 | --- | --- |
 | [MultiCloud-Watchtower](https://github.com/surya-edict/MultiCloud-Watchtower) | A multi-cloud FinOps platform that pulls billing data from AWS, Azure, and GCP, normalizes the cost into a single view, stores the metrics in InfluxDB, and surfaces trends through Grafana dashboards. It also adds Redis-backed alert deduplication and Slack notifications so unusual spend can be caught early instead of after the bill arrives. |
-| [Netflix-Clone-DevOps](https://github.com/surya-edict/Netflix-Clone-DevOps) | A Netflix-style streaming app built with React, TypeScript, Vite, Material UI, and TMDB integrations, then containerized with Docker and served through NGINX. The project is really a full DevSecOps showcase: Jenkins pipelines, SonarQube and Trivy scans, OWASP dependency checks, Kubernetes deployment, and Prometheus/Grafana monitoring around the application lifecycle. |
-| [Three-Tier-Inventory-Management-System-with-AIOps-Style-Alerts](https://github.com/surya-edict/Three-Tier-Inventory-Management-System-with-AIOps-Style-Alerts) | A production-style inventory management system with a React frontend, FastAPI backend, and PostgreSQL database designed to handle real order workflows safely. It is deployed on AWS using Terraform, EKS, ECR, GitHub Actions, and Argo CD, with Prometheus/Grafana alerting added to monitor API health, low-stock events, and overall operational reliability. |
+| [Netflix-Clone-DevOps](https://github.com/surya-edict/Netflix-Clone-DevOps) | A Netflix-style streaming app built with React, TypeScript, Vite, Material UI, and TMDB integrations, then containerized with Docker and served through NGINX. The project is a full DevSecOps showcase with Jenkins pipelines, SonarQube and Trivy scans, OWASP dependency checks, Kubernetes deployment, and Prometheus/Grafana monitoring around the application lifecycle. |
+| [Three-Tier-Inventory-Management-System-with-AIOps-Style-Alerts](https://github.com/surya-edict/Three-Tier-Inventory-Management-System-with-AIOps-Style-Alerts) | A production-style inventory management system with a React frontend, FastAPI backend, and PostgreSQL database designed to handle real order workflows safely. It is deployed on AWS using Terraform, EKS, ECR, GitHub Actions, and Argo CD, with Prometheus/Grafana alerting added to monitor API health, low-stock events, and operational reliability. |
+
+### Architecture Cards
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>MultiCloud-Watchtower</h3>
+      <p><strong>Architecture</strong><br/>Cloud Billing APIs -> Python Processing -> InfluxDB -> Grafana -> Slack Alerts</p>
+      <p><strong>Core Idea</strong><br/>Gives teams one place to understand multi-cloud spend, detect cost anomalies, and act before costs drift further.</p>
+      <p><strong>Ops Angle</strong><br/>FinOps automation, alert deduplication, metrics pipeline, and cost governance workflow.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Netflix-Clone-DevOps</h3>
+      <p><strong>Architecture</strong><br/>React App -> Docker -> Jenkins CI -> Security Scans -> Kubernetes -> Prometheus/Grafana</p>
+      <p><strong>Core Idea</strong><br/>Combines a polished user-facing app with a production-style DevSecOps delivery flow from build to monitoring.</p>
+      <p><strong>Ops Angle</strong><br/>Secure CI/CD, container delivery, runtime observability, and release readiness checks.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Three-Tier Inventory System</h3>
+      <p><strong>Architecture</strong><br/>React Frontend -> FastAPI Backend -> PostgreSQL -> GitHub Actions -> Argo CD -> AWS EKS</p>
+      <p><strong>Core Idea</strong><br/>Shows how a real business workflow can be deployed as a secure, observable, cloud-native platform.</p>
+      <p><strong>Ops Angle</strong><br/>Terraform provisioning, GitOps deployment, alerting, and reliability-focused application operations.</p>
+    </td>
+  </tr>
+</table>
 
 ## GitHub Analytics
 
@@ -67,10 +106,6 @@ that make production easier to operate.
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-edict&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </div>
-
-## Certification
-
-- AWS Certified Solutions Architect Associate
 
 ## Let's Connect
 
