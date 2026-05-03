@@ -1,0 +1,100 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Surya Pratap Singh terminal glassmorphism dashboard hero">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#070B14"/>
+      <stop offset="0.55" stop-color="#10172B"/>
+      <stop offset="1" stop-color="#0B1220"/>
+    </linearGradient>
+    <linearGradient id="panelFill" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7C9CFF" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0.95"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+  <circle cx="1086" cy="64" r="210" fill="#7C9CFF" fill-opacity="0.12"/>
+  <circle cx="178" cy="326" r="170" fill="#22D3EE" fill-opacity="0.08"/>
+  <path d="M0 312C188 286 330 342 528 316C730 290 924 250 1280 286V360H0V312Z" fill="#0E172A" fill-opacity="0.86"/>
+
+  <g stroke="#23314D" stroke-opacity="0.45" stroke-width="1">
+    <path d="M72 76H1208M72 316H1208"/>
+    <path d="M232 40V320M488 40V320M744 40V320M1000 40V320"/>
+  </g>
+
+  <g>
+    <rect x="56" y="44" width="722" height="248" rx="22" fill="url(#panelFill)" stroke="#FFFFFF" stroke-opacity="0.16"/>
+    <rect x="56" y="44" width="722" height="42" rx="22" fill="#FFFFFF" fill-opacity="0.05"/>
+    <circle cx="88" cy="65" r="5" fill="#F05252"/>
+    <circle cx="108" cy="65" r="5" fill="#F5B942"/>
+    <circle cx="128" cy="65" r="5" fill="#31C48D"/>
+    <text x="154" y="70" fill="#94A3B8" font-family="Consolas, 'Courier New', monospace" font-size="13">terminal://deploy-session</text>
+
+    <text x="88" y="126" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="700">Surya Pratap Singh</text>
+    <text x="88" y="162" fill="#9CC0FF" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD</text>
+    <text x="88" y="194" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="15">Building reliable delivery systems, secure cloud platforms, and observable infrastructure.</text>
+
+    <text x="88" y="232" fill="#DCE6FF" font-family="Consolas, 'Courier New', monospace" font-size="18">$ kubectl get pods -n production</text>
+    <text x="88" y="260" fill="#DCE6FF" font-family="Consolas, 'Courier New', monospace" font-size="18">$ terraform plan</text>
+    <text x="88" y="288" fill="#DCE6FF" font-family="Consolas, 'Courier New', monospace" font-size="18">$ argocd app sync inventory-platform</text>
+
+    <rect x="472" y="214" width="258" height="54" rx="14" fill="#0F172A" fill-opacity="0.48" stroke="#7C9CFF" stroke-opacity="0.28"/>
+    <text x="494" y="238" fill="#31C48D" font-family="Consolas, 'Courier New', monospace" font-size="15">deployment/status: healthy</text>
+    <text x="494" y="258" fill="#7DD3FC" font-family="Consolas, 'Courier New', monospace" font-size="13">alerts: 0 critical | latency: stable</text>
+  </g>
+
+  <g>
+    <rect x="818" y="44" width="406" height="110" rx="22" fill="url(#panelFill)" stroke="#FFFFFF" stroke-opacity="0.16"/>
+    <text x="848" y="82" fill="#E5ECF6" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Platform Signals</text>
+
+    <rect x="848" y="98" width="82" height="36" rx="12" fill="#0F172A" fill-opacity="0.54" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <rect x="942" y="98" width="82" height="36" rx="12" fill="#0F172A" fill-opacity="0.54" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <rect x="1036" y="98" width="82" height="36" rx="12" fill="#0F172A" fill-opacity="0.54" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <rect x="1130" y="98" width="64" height="36" rx="12" fill="#0F172A" fill-opacity="0.54" stroke="#FFFFFF" stroke-opacity="0.08"/>
+
+    <text x="868" y="119" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">99.95%</text>
+    <text x="958" y="119" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">148</text>
+    <text x="1050" y="119" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">12</text>
+    <text x="1144" y="119" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">&lt;15m</text>
+
+    <text x="868" y="132" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="10">uptime</text>
+    <text x="958" y="132" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="10">pipelines</text>
+    <text x="1050" y="132" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="10">services</text>
+    <text x="1144" y="132" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="10">mttr</text>
+  </g>
+
+  <g>
+    <rect x="818" y="172" width="406" height="120" rx="22" fill="url(#panelFill)" stroke="#FFFFFF" stroke-opacity="0.16"/>
+    <text x="848" y="206" fill="#E5ECF6" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Delivery Flow</text>
+
+    <g stroke="url(#accent)" stroke-width="1.7" stroke-linecap="round" filter="url(#softGlow)">
+      <path d="M880 242H946"/>
+      <path d="M996 242H1062"/>
+      <path d="M1112 242H1178"/>
+    </g>
+
+    <g fill="#0F172A" stroke="#FFFFFF" stroke-opacity="0.14">
+      <rect x="848" y="228" width="64" height="28" rx="10" fill="#0F172A" fill-opacity="0.56"/>
+      <rect x="964" y="228" width="64" height="28" rx="10" fill="#0F172A" fill-opacity="0.56"/>
+      <rect x="1080" y="228" width="64" height="28" rx="10" fill="#0F172A" fill-opacity="0.56"/>
+      <rect x="1160" y="228" width="44" height="28" rx="10" fill="#0F172A" fill-opacity="0.56"/>
+    </g>
+
+    <text x="860" y="246" fill="#DCE6FF" font-family="Segoe UI, Arial, sans-serif" font-size="11">GitHub</text>
+    <text x="977" y="246" fill="#DCE6FF" font-family="Segoe UI, Arial, sans-serif" font-size="11">Docker</text>
+    <text x="1088" y="246" fill="#DCE6FF" font-family="Segoe UI, Arial, sans-serif" font-size="11">K8s</text>
+    <text x="1170" y="246" fill="#DCE6FF" font-family="Segoe UI, Arial, sans-serif" font-size="11">Obs</text>
+
+    <text x="848" y="278" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="12">Source -> Build -> Containers -> Runtime -> Monitoring</text>
+  </g>
+</svg>
