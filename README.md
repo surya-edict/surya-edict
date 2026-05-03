@@ -7,12 +7,6 @@
     AWS Certified engineer building production-ready delivery platforms with Kubernetes, Terraform, Jenkins, GitHub Actions,
     Argo CD, Prometheus, and Grafana.
   </p>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=surya-edict&style=for-the-badge&color=2563eb" alt="Profile views" />
-    <img src="https://img.shields.io/github/last-commit/surya-edict/surya-edict?style=for-the-badge&label=Last%20Updated&color=0f172a" alt="Last updated" />
-    <img src="https://img.shields.io/badge/Open%20To-DevOps%20Roles-16a34a?style=for-the-badge" alt="Open to DevOps roles" />
-  </p>
 </div>
 
 <div align="center">
